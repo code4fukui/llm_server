@@ -1,5 +1,7 @@
 # llm_server
 
+- llm_server provides LLM API by [rinna/youri-7b-gptq](https://huggingface.co/rinna/youri-7b-gptq)
+
 ## setup
 
 ```sh
