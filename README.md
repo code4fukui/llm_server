@@ -23,3 +23,4 @@ http://[::]:5050/?p=who
 ## reference
 
 - [rinnaの新AI「youri-7b-chat-gptq」の魅力 | ジコログ](https://self-development.info/rinna%E3%81%AE%E6%96%B0ai%E3%80%8Cyouri-7b-chat-gptq%E3%80%8D%E3%81%AE%E9%AD%85%E5%8A%9B/)
+- [8GB RTX3060TiでOK、PythonでローカルLLMのCORS対応APIサーバー＆JSクライアント](https://fukuno.jig.jp/4140)
