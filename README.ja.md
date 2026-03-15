@@ -1,13 +1,6 @@
 # llm_server
 
-[llm_server](https://github.com/code4fukui/llm_server)は、[rinna/youri-7b-gptq](https://huggingface.co/rinna/youri-7b-gptq)を使用してLLMのAPIを提供するサーバーです。
-
-## デモ
-[llm_client](https://github.com/code4fukui/llm_client/)を使って、簡単にAPIを呼び出すことができます。
-
-## 機能
-- rinna/youri-7b-gptqモデルに基づくLLMのAPI提供
-- CORS対応
+[llm_server](https://github.com/code4fukui/llm_server)は、[rinna/youri-7b-gptq](https://huggingface.co/rinna/youri-7b-gptq)モデルを使用したLLM(Large Language Model)APIを提供するサーバーです。
 
 ## 必要環境
 - Python 3.x

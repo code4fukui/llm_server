@@ -1,6 +1,8 @@
 # llm_server
 
-llm_server provides a LLM (Large Language Model) API using the [rinna/youri-7b-gptq](https://huggingface.co/rinna/youri-7b-gptq) model.
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
+`llm_server` provides a LLM (Large Language Model) API using the [rinna/youri-7b-gptq](https://huggingface.co/rinna/youri-7b-gptq) model.
 
 ## Setup
 
