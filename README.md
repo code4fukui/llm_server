@@ -28,4 +28,4 @@ Then access the API at `http://[::]:5050/?p=who`
 
 ## License
 
-MIT License
+MIT License — see [LICENSE](LICENSE).
